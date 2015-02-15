@@ -1,0 +1,74 @@
+# Copyright (C) 2015 Creative Portfolio Custom Colors
+# This file is distributed under the same license as the Creative Portfolio Custom Colors package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Creative Portfolio Custom Colors 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"http://wordpress.org/support/plugin/creative-portfolio-custom-colors\n"
+"POT-Creation-Date: 2015-02-15 04:55:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.0\n"
+
+#: creative-portfolio-custom-colors.php:60
+msgid ""
+"If you would like even more fine-grained control over your colors, take "
+"advantage of the Jetpack <a "
+"href=\"http://jetpack.me/support/custom-css/\">Custom CSS</a> module."
+msgstr ""
+
+#: creative-portfolio-custom-colors.php:79
+msgid "Main Accent Background"
+msgstr ""
+
+#: creative-portfolio-custom-colors.php:95
+msgid "Main Accent Text"
+msgstr ""
+
+#: creative-portfolio-custom-colors.php:115
+msgid "Secondary Accent Background"
+msgstr ""
+
+#: creative-portfolio-custom-colors.php:131
+msgid "Secondary Accent Text"
+msgstr ""
+
+#: creative-portfolio-custom-colors.php:151
+msgid "Links"
+msgstr ""
+
+#: creative-portfolio-custom-colors.php:171
+msgid "Site Top Content Background"
+msgstr ""
+
+#: creative-portfolio-custom-colors.php:187
+msgid "Site Top Content Text"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Creative Portfolio Custom Colors"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://creativemarket.com/professionalthemes/185375-Creative-Portfolio-"
+"WordPress-Theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin adds custom colors functionality into the Creative Portfolio "
+"WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Professional Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://creativemarket.com/professionalthemes"
+msgstr ""
