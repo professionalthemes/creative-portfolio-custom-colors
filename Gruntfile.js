@@ -30,7 +30,6 @@ module.exports = function(grunt) {
         options: {
           cwd: '<%= pkg.name %>',
           domainPath: '/languages',
-          i18nToolsPath: '/Applications/XAMPP/xamppfiles/htdocs/develop/tools/i18n',
           potFilename: '<%= pkg.name %>-en_US.pot',
           type: 'wp-plugin'
         }
